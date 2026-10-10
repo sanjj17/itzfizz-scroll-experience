@@ -7,6 +7,7 @@ A pinned GSAP / ScrollTrigger timeline drives a vector sports car across a road 
 - **Live demo:** https://sanjj17.github.io/itzfizz-scroll-experience/
 - **Repository:** https://github.com/sanjj17/itzfizz-scroll-experience
 
+<<<<<<< HEAD
 | Desktop | Mobile |
 | --- | --- |
 | ![Desktop preview](docs/preview-desktop.png) | ![Mobile preview](docs/preview-mobile.png) |
@@ -25,6 +26,12 @@ A pinned GSAP / ScrollTrigger timeline drives a vector sports car across a road 
 | Performance | Transforms and opacity only while scrolling; letters toggle a CSS class on threshold; no layout reads per frame |
 | Tech stack | HTML, CSS, JavaScript, GSAP + ScrollTrigger, Next.js / React, Tailwind CSS |
 | Hosting | GitHub Pages via the included GitHub Actions workflow |
+=======
+## Live demo
+ URL here:
+
+`https://sanjj17.github.io/itzfizz-scroll-experience/`
+>>>>>>> 80e0de61be3e65cc7487cd219a2d9e7868224959
 
 ## Tech stack
 
