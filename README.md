@@ -5,10 +5,9 @@ A premium scroll-driven landing-page concept created for the **Itzfizz Digital W
 > **Concept note:** The four percentages in the hero are illustrative design content, not actual Itzfizz or client results.
 
 ## Live demo
+ URL here:
 
-After deployment, add your URL here:
-
-`https://YOUR-GITHUB-USERNAME.github.io/itzfizz-scroll-experience/`
+`https://sanjj17.github.io/itzfizz-scroll-experience/`
 
 ## Tech stack
 
