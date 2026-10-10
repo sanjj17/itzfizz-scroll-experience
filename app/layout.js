@@ -7,9 +7,17 @@ export const metadata = {
   keywords: ['Itzfizz', 'creative development', 'GSAP', 'ScrollTrigger', 'Next.js'],
 };
 
+export const viewport = {
+  themeColor: '#0a0c0b',
+};
+
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    // suppressHydrationWarning: the inline script below adds a `js` class before React hydrates.
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
+      </head>
       <body>{children}</body>
     </html>
   );
