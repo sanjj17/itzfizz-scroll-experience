@@ -7,7 +7,7 @@ A pinned GSAP / ScrollTrigger timeline drives a vector sports car across a road 
 - **Live demo:** https://sanjj17.github.io/itzfizz-scroll-experience/
 - **Repository:** https://github.com/sanjj17/itzfizz-scroll-experience
 
-<<<<<<< HEAD
+
 | Desktop | Mobile |
 | --- | --- |
 | ![Desktop preview](docs/preview-desktop.png) | ![Mobile preview](docs/preview-mobile.png) |
